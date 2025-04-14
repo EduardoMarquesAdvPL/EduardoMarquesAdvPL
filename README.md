@@ -11,8 +11,9 @@
 
 ### 🧠 Sobre mim
 
+- 💼 Desenvolvedor com **4 anos de experiência com ADVPL no sistema Protheus**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade São Francisco de Assis  
-- 💼 Desenvolvedor **ADVPL** na AMG Brasil via OnCoding  
+- 👨‍💻 Atuo como Desenvolvedor **ADVPL** na AMG Brasil via OnCoding  
 - 🔧 Trabalho com **Protheus**, **SQL Server**, **PowerShell**, **Automações e Relatórios** 
 - 🧪 Amante de experimentos com código e de resolver problemas com lógica
 
