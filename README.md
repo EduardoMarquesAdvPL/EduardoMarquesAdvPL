@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World!
+
 <h1 align="center">Oi, eu sou o Eduardo Marques 👋</h1>
 
 <p align="center">
