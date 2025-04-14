@@ -3,7 +3,7 @@
 <h1 align="center">Oi, eu sou o Eduardo Marques 👋</h1>
 
 <p align="center">
-💻 Desenvolvedor ADVPL Protheus| 🎓 Estudante de ADS | ⚙️ Entusiasta de tecnologia<br>
+💻 Desenvolvedor ADVPL Protheus | 🎓 Estudante de ADS | ⚙️ Entusiasta de tecnologia<br>
 🚀 Transformando ideias em código todos os dias!
 </p>
 
@@ -27,7 +27,8 @@
 
 ### 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-marques-a08770249/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-marques-a08770249/)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudufnc/)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:emarques9642@gmail.com)
+
 
 ---
 
