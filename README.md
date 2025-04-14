@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Eduardo%20Marques&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Bem-vindo%20ao%20meu%20GitHub!&descSize=20&descAlignY=60" alt="capa github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="capa github"/>
 
 <h1 align="center">Oi, eu sou o Eduardo Marques 👋</h1>
 
