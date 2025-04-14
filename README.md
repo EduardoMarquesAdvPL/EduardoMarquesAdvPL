@@ -18,8 +18,7 @@
 
 ### 🛠️ Techs & Ferramentas
 
-![ADVPL](https://img.shields.io/badge/-ADVPL-blueviolet?style=for-the-badge)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=for-the-badge&logo=sqlserver)  
+![ADVPL](https://img.shields.io/badge/-ADVPL-blueviolet?style=for-the-badge)  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=for-the-badge&logo=sqlserver)  
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 ![Protheus](https://img.shields.io/badge/-Protheus-00599C?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
